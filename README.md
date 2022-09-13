@@ -53,5 +53,5 @@ HTML/CSS, Figma (during GoIT Marathons)
 
 ## My projects
 ___
-- [Link to the repository]() with Robot framework project made during online course in DareIT
-- [Link to the repository]() with automated tests made during online course in DareIT
+- [Link to the repository](https://github.com/LiubovFedotova/liuba_robotframework) with Robot framework project made during online course in DareIT
+- [Link to the repository](https://github.com/LiubovFedotova/Fedotova_challange_portfolio) with automated tests made during online course in DareIT
