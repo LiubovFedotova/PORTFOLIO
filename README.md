@@ -10,23 +10,20 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 
 ## Courses
 ___
-- The Fundamentals of Software Testing course in QATestLab Training Center<br/> 
+- The Fundamentals of Software Testing course at QATestLab Training Center<br/> 
 [Link to the certificate](https://clients.qatestlab.com/api/common/certificate/alyfvesubj403ux96q5icube.pdf)
-- Challenge: QA Automated Testing online course in Dare IT<br/> 
-in progress
+- QA Automated Testing & Python Challenge at Dare IT<br/>
+[Link to the certificate](https://drive.google.com/file/d/1BLjbKlzH43YFgQDz_iOMdkfbcrUTVNjv/edit)
 - The Introduction to Software Testing online course on Coursera
-- 7-day HTML/CSS Marathons from GoIT<br/>
-
 
 ## Skills and Tools
 ___
 - Test documentation handling (Checklists, Test cases, Bug reports)
 - Practical experience with Mantis, Jira, TestLink
-- Knowledge of the types of testing;
-- Knowledge of SDLC
 - Basic knowledge HTML/CSS
 - Familiar with Chrome DevTools
 - Some practical experience in writing automation tests using Selenium Webdriver and Python technology
+- Robot Framework
 - xPath
 - PyCharm, Visual Studio Code
 - GitHub 
@@ -35,23 +32,23 @@ ___
 ## Examples of my work
 ___
 Bug reports
-- [Bug reports for https://qatest-dev.indvp.com/](https://docs.google.com/spreadsheets/d/1qUVkntUQvUa23vUGuKFHiy6bqzz8QBKGO9PVnz9npi0/edit?usp=sharing)
-- [Bug reports for https://scouts.futbolkolektyw.pl/ site](https://docs.google.com/document/d/1wf1z5D5jnTao11QXgofAWnP0jn5a3GYgTKlN56lDxfE/edit?usp=sharing)<br/>
+- [Bug reports](https://docs.google.com/spreadsheets/d/1qUVkntUQvUa23vUGuKFHiy6bqzz8QBKGO9PVnz9npi0/edit?usp=sharing) for https://qatest-dev.indvp.com/
+- [Bug reports](https://docs.google.com/document/d/1wf1z5D5jnTao11QXgofAWnP0jn5a3GYgTKlN56lDxfE/edit?usp=sharing) for https://scouts.futbolkolektyw.pl/ <br/>
 
 Test cases
-- [Link to the test cases](https://docs.google.com/spreadsheets/d/15gDbO-Z2ZdLHOwrus5DHlX0uIIZdKs-9qHb6eZYSoFY/edit?usp=sharing) made during online course in DareIT<br/>
+- [Test cases](https://docs.google.com/spreadsheets/d/15gDbO-Z2ZdLHOwrus5DHlX0uIIZdKs-9qHb6eZYSoFY/edit?usp=sharing) made during online course in DareIT<br/>
 
 Test Report
-- [Link to the test report](https://docs.google.com/spreadsheets/d/1ELj2MSJdTHjFpcYm9k7wcWJt2_OhTopeusNbp4vBn04/edit?usp=sharing) made during online course in DareIT<br/>
+- [Test report](https://docs.google.com/spreadsheets/d/1ELj2MSJdTHjFpcYm9k7wcWJt2_OhTopeusNbp4vBn04/edit?usp=sharing) made during online course in DareIT<br/>
 
 Test Plan
-- [Link to the test plan with test cases](https://drive.google.com/file/d/1Gvqe316ZsArVYoJCu3YFtHpstLZCCnaT/view?usp=sharing) made during online course on Coursera
+- [Test plan with test cases](https://drive.google.com/file/d/1Gvqe316ZsArVYoJCu3YFtHpstLZCCnaT/view?usp=sharing) made during online course on Coursera
 
-HTML/CSS, Figma (during GoIT Marathons)
+HTML/CSS, Figma (during 7-day HTML/CSS Marathons from GoIT)
 - [Link to the Figma page](https://www.figma.com/file/XnEcAZmAwxTHhn5fpYsyeA/Design?node-id=50001%3A5)
-- [Link to my tester CV](https://tangerine-sorbet-a52d0d.netlify.app/) made during Marathon]
+- [Link to my tester CV](https://tangerine-sorbet-a52d0d.netlify.app/) made during Marathon
 
 ## My projects
 ___
 - [Link to the repository](https://github.com/LiubovFedotova/liuba_robotframework) with Robot framework project made during online course in DareIT
-- [Link to the repository](https://github.com/LiubovFedotova/Fedotova_challange_portfolio) with automated tests made during online course in DareIT
+- [Link to the repository](https://github.com/LiubovFedotova/Fedotova_challange_portfolio) with automated tests made on Python with Selenium during online course in DareIT
