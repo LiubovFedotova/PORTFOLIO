@@ -7,7 +7,7 @@ Thanks to my experience as a public servant, I've gained good communication skil
 
 In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior or trainee position in testing.
 
-
+[Link to my CV](https://drive.google.com/file/d/1qDclOwwblW7YCHYbWfQc5MI1N5_qn8zr/view?usp=sharing)
 ## Courses
 ___
 - The Fundamentals of Software Testing course at QATestLab Training Center<br/> 
