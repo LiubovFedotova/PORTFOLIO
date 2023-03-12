@@ -32,7 +32,6 @@ ___
 ## Examples of my work
 ___
 Bug reports
-- [Bug reports](https://docs.google.com/spreadsheets/d/1qUVkntUQvUa23vUGuKFHiy6bqzz8QBKGO9PVnz9npi0/edit?usp=sharing) for https://qatest-dev.indvp.com/
 - [Bug reports](https://docs.google.com/document/d/1wf1z5D5jnTao11QXgofAWnP0jn5a3GYgTKlN56lDxfE/edit?usp=sharing) for https://scouts.futbolkolektyw.pl/ <br/>
 
 Test cases
